@@ -4,6 +4,6 @@ $(document).ready(function() {
     $(".about.none").fadeIn();
     $(this).hide();
     $(".toppadd").hide();
-    // $(".profilePic").hide();
   });
 });
+

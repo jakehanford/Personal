@@ -86,3 +86,14 @@ html {
 .photosection {
 	width: 100% !important;
 }
+ul {
+	margin: 0;
+	padding-left: 10px;
+	border-left: 1px solid #9A9A9A;
+	overflow: visible;
+	list-style: none;
+}
+footer {
+	color: gray;
+	text-align: center;
+}
